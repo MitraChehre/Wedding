@@ -2,84 +2,135 @@
 
 This file contains durable facts and preferences that should be remembered across Wedding project interactions.
 
-## Confirmed facts
+## Core scope and timing
+- Destination wedding; country is not selected and must not be assumed.
+- Initial target window: September–December 2027, with roughly a year for planning.
+- Exact month, date, and day of week are highly flexible.
+- Weekday weddings are explicitly welcome if they save money; there is no meaningful universal weekend for the Iranian/European guest mix.
+- Peak/high season is expendable. Shoulder/off-season is a preferred cost-saving lever, provided the wedding remains proper and weather risk is handled.
+- Working all-in budget: about €30,000, to be pressure-tested and revised if necessary.
+- Major personal clothing purchases (bride's wedding dress and groom's wedding outfit) are outside this budget. Wedding-day services such as bridal hair/makeup are inside. Rings may be included but should remain a visible/separable budget line.
+- Budget also covers roughly one week of accommodation for the eight-person immediate-family group including the couple.
 
-- The couple is planning a destination wedding and does not want the country assumed in advance.
-- They want roughly a year for planning.
-- Initial target window: September–December 2027, subject to feasibility.
-- They prefer a non-peak travel period if this improves value, while still caring about acceptable weather.
-- Approximate invitations: ~200 people.
-- Approximate realistic attendance: up to ~150 people, with uncertainty because all guests must travel.
-- Most guests will come from Iran and Italy; a smaller number may come from elsewhere in Europe.
-- No guests are expected to be local to the eventual destination, so this is a true destination wedding.
-- Current working all-in budget: about €30,000, to be revisited as planning develops.
-- The €30,000 should cover all wedding-related costs plus around one week of accommodation for the couple's closest family group of eight people.
-- The couple wants budget assumptions challenged proactively if the desired wedding and budget do not fit; recommendations should include concrete tradeoffs, cuts, or a justified budget increase.
-- Venue format is flexible: villa, resort, hotel, or another suitable private venue.
-- Because the wedding is likely in autumn/winter, weather risk must be planned for. Any indoor/weather-backup option should be good enough to feel like a true Plan A, not a compromised emergency fallback.
-- The couple wants the celebration to be personal and non-traditional, selectively mixing Iranian and Italian elements they actually like rather than following a prescribed format.
-- A small/simple Sofreh Aghd is desired, not a large or elaborate one.
-- The wedding ceremony can be symbolic/unofficial and led by one of their uncles; they do not want to pay a professional officiant merely for the symbolic ceremony.
-- Core celebration elements: substantial dinner, music, dancing, and possibly entertainment/show elements. Exact programme is intentionally open for now.
-- English is the operational language required from planners, venues, hotels, and key vendors.
-- Small guest-facing announcements can be handled informally by the couple/family and made bilingual as needed.
-- Food should be a proper dinner, not only small plates.
-- Buffet is preferred if it makes financial and local sense, but the couple is flexible and happy with local service styles such as multiple courses if the food is good.
-- Local cuisine is welcome; the food does not need to be specifically Iranian or Italian, but should be broadly compatible with both groups.
-- Alcohol is required, with alcoholic and non-alcoholic options. Wine, beer, and cocktails should be available.
-- A professional DJ is a must-have. Music should mix Persian/Iranian dance music with well-known international/English-language party music and Italian music where appropriate.
-- The couple does not want to manage the music themselves.
-- Live music is a nice-to-have only if the budget allows.
-- Photography is a priority.
-- The couple would likely like a separate couple photo session before the wedding at attractive local locations, in addition to wedding-day photography.
-- Professional video is low priority and should not displace higher-priority spending; it is acceptable if bundled cheaply or effectively included.
-- Flowers and decoration are desired so the venue looks intentional and attractive, but décor is not a splurge category. Good value and proportion to budget matter more than elaborate installations.
-- Choosing a naturally attractive venue that requires less transformation is desirable.
-- The wider guest list only needs one organised wedding day; no full multi-day guest programme is currently planned.
-- The closest family group may stay with the couple for several days / roughly a week around the wedding.
-- The couple lives in Estonia with temporary residence permits.
-- Groom: Italian passport holder.
-- Bride: Iranian passport holder.
-- Bride and groom will likely travel from Estonia or elsewhere in Europe.
-- Groom's brother and his wife live in Dublin and are Italian.
-- Groom's parents live in Italy.
-- Bride's sister and her husband live in Germany and both hold Iranian passports.
-- Bride's parents live in Karaj, Iran. "Karaj" is the correct city; do not confuse it with Karachi.
-- The most important guests are the close family group of eight. The Iranian family must be able to reach the wedding destination even under disrupted aviation conditions.
-- A major/hard destination requirement is practical access for Iranian passport holders: ideally visa-free or otherwise genuinely easy entry, affordable travel, and a realistic overland/car route from Iran.
-- For Italian guests, visa-free access is strongly preferred and generally expected to be easier.
-- Armenia has been raised by the couple as an attractive possible destination because of its proximity and overland accessibility from Iran, but no country has been selected yet.
-- Turkey has also been considered previously, but the project should not assume Turkey as the destination.
-- Initial research on Iranian/Persian wedding planners or planning services in Turkey exists under `vendors/` and remains reference material, not a final destination decision.
-- The GitHub repository `MitraChehre/Wedding` is the canonical durable workspace for this project.
-- Completed durable project work should normally be committed directly to `main`.
+## Guests and family
+- Approximate invitations: ~200.
+- Up to ~150 attendees is a planning estimate, not a target. Natural RSVP attrition may make attendance materially lower, especially among guests travelling from Iran.
+- The couple will not deliberately reduce the desired guest list as a budget lever.
+- Avoid contracts that lock in an unnecessarily high guaranteed headcount too early; prefer a final guarantee closer to the wedding date where possible.
+- Most guests come from Iran and Italy; some from elsewhere in Europe. No guests are expected to be local to the destination.
+- Children are invited. A separate nearby children's play area/room is desirable; childcare is not currently a requirement.
+- The close family group of eight are all adults: bride and groom; groom's parents; groom's brother and wife; bride's sister and husband; bride's parents.
+- Couple lives in Estonia with temporary residence permits. Groom is Italian; bride is Iranian.
+- Groom's parents live in Italy. Groom's brother and wife live in Dublin and are Italian passport holders.
+- Bride's sister and husband live in Germany and hold Iranian passports.
+- Bride's parents live in Karaj, Iran (not Karachi) and are essential guests.
+- No known mobility/accessibility requirements among the key family/guests so far.
 
-## Preferences about how the assistant should work
+## Destination and travel requirements
+- Country is open. Armenia is currently the couple's leading hypothesis; Turkey has also been considered. Neither is selected.
+- Hard requirement: Iranian family, especially bride's parents, must have practical access even if aviation is disrupted.
+- Iranian ordinary-passport entry should be visa-free or genuinely easy; difficult advance visa processes are undesirable.
+- Travel for Iranian guests must be reasonably affordable.
+- A realistic overland/car route from Iran is a major resilience requirement. Bride's parents should be able to reach the destination from Karaj in roughly one full day overland if flights are unavailable.
+- Italian/European flight access matters; visa-free access for Italians is preferred.
+- Destination comparison should include entry rules, land access from Karaj, flight access from Europe, cost, Sep–Dec weather, venue quality, English-speaking planner/vendor ecosystem, and safety/reliability. Re-check changing rules closer to booking.
 
-- Do not assume the couple already knows the wedding-planning process.
-- Be proactive about identifying missing decisions, dependencies, risks, and next steps.
-- Ask interview questions one at a time, not in large batches.
-- Ask broad/open questions first, then progressively narrow the interview.
-- Preserve useful context and decisions in the repository rather than depending on chat history alone.
-- Avoid repeatedly asking questions whose answers are already stored here or elsewhere in the canonical project files.
-- Challenge infeasible assumptions rather than merely recording them.
-- When presenting options, explain tradeoffs and propose practical cuts/substitutions where useful.
+## Venue and weather
+- Venue aesthetic/type is flexible: villa, resort, hotel, restaurant/event venue, etc., as long as it is good, private for the event, and budget-fit.
+- Event privacy/exclusivity matters; full property buyout is not required if the actual wedding space is genuinely private.
+- Weather contingency is a major deal-breaker. If outdoors/garden is Plan A, the indoor/covered Plan B must be large enough and approximately as good, not a visibly inferior emergency fallback.
+- A remote/out-of-centre venue is acceptable and is an explicit cost-saving lever if the venue itself is good.
+- Accommodation for the eight does not need to be at the venue; nearby separate accommodation is acceptable if transfers remain practical.
+- For a hard-to-reach/remote venue, shared guest shuttle transport from a convenient city point is desirable. For an accessible venue, guests can arrange their own transport.
+- Guest transport is a secondary cost-cutting lever if it becomes disproportionately expensive, provided access remains practical.
+- Compare remote venues on total cost including required transport, not venue hire alone.
 
-## Still open / to revisit
+## Ceremony and cultural elements
+- Wedding should be personal/non-traditional, selectively mixing Iranian and Italian elements the couple likes rather than following prescribed traditions.
+- A small/simple Sofreh Aghd is specifically wanted; not large, elaborate, or a splurge.
+- Persian/Iranian cultural expertise in the planner is preferable but not important enough to drive selection. A strong local planner can research/execute the simple Sofreh Aghd from references.
+- Symbolic/unofficial ceremony can be led by one of the couple's uncles; no professional celebrant is needed for that role.
+- Legal marriage arrangements remain separate/open.
+- Religious requirements/restrictions have not yet been answered and should be the next interview question when the interview resumes.
 
-- Final destination country and city/region.
-- Exact wedding date within the September–December 2027 planning window.
-- Detailed guest list and more reliable attendance estimate.
-- Whether €30,000 remains the right budget after destination and venue pricing are known.
-- Exact breakdown of the eight-person family accommodation group and room requirements.
-- Couple's own accommodation treatment within the budget.
-- Exact venue style and level of privacy/exclusivity.
-- Detailed ceremony and reception programme.
-- Entertainment beyond the DJ.
-- Photography scope, days, and style.
-- Exact food service format and bar package.
-- Legal marriage/officiation arrangements, if any, versus symbolic ceremony.
-- Planner scope and desired level of delegation.
-- Destination shortlist scored on Iranian visa access, overland access from Iran, affordability, flight access from Europe, weather, venue quality, English-speaking vendor ecosystem, and resilience/safety.
+## Food, drink and cake
+- Food quality and quantity are protected priorities. There must be a substantial proper dinner and enough food for guests.
+- Buffet is preferred if sensible, but local service norms/multi-course formats are fine if quality/value is better.
+- Local cuisine is welcome; it need not be Iranian or Italian specifically.
+- Alcoholic and non-alcoholic options are required; wine, beer, and cocktails are desired.
+- Wedding cake/cake-cutting is wanted, but not an expensive giant edible cake. A display/dummy cake with an edible cutting tier and separately prepared portions is entirely acceptable and likely preferred if economical.
 
-Update this file as durable facts become known. Do not convert provisional assumptions into confirmed facts without evidence from the couple or reliable project records.
+## Music, entertainment and programme
+- Professional DJ is a must-have; couple does not want to manage music themselves.
+- Music should mix Persian/Iranian dance music, famous international/English-language dance music, and Italian music where appropriate.
+- Live music is optional and one of the first things to cut if needed; DJ-only is completely acceptable.
+- Other show/entertainment is optional and can be proposed later.
+- Formal wedding roughly envisioned around 17:00–23:00, with all essential programme/food completed by ~23:00. An optional way to continue dancing afterward is nice but not a major paid programme requirement.
+- Speeches/toasts are expected but intentionally undefined for now. Likely some brief welcome/logistics announcements and a few speeches; detailed planning should happen later.
+
+## Photography/video and decor
+- Professional wedding-day photography is a priority.
+- A separate pre-wedding/couple photo shoot on another day at attractive destination locations is desired if feasible.
+- Video is low priority; include only if bundled cheaply/effectively free and do not sacrifice priorities for it.
+- Flowers/decor should make the wedding look proper, intentional and attractive, but decor is not a splurge category.
+- Prefer naturally attractive venues that need less transformation.
+
+## Planner expectations and budget honesty
+- A full-service local human planner is wanted because the couple lives abroad and both work. Planner handles local execution/vendor work; ChatGPT acts as planning copilot/project manager.
+- Planner's fee/business model is not important: fixed fee, package, commissions, etc. are all acceptable if the outcome is good.
+- Planner selection priorities: strong reputation, reliability, quality of execution, good English/local capability, and ability to deliver within the agreed total budget.
+- Budget honesty is critical. The couple wants a clear early answer if €30k cannot produce a proper wedding. They prefer being told upfront that the realistic budget is higher rather than receiving an attractive initial quote followed by repeated unavoidable add-ons.
+- Planner/venue quotes should therefore be assessed on realistic all-in cost, contingency and exclusions, not only headline/base price.
+- The couple does not want budget compliance achieved by making the wedding feel improper, serving inadequate/bad food, or accepting a poor weather backup.
+
+## Cost-saving hierarchy
+First/acceptable levers include:
+1. Remove live music; keep professional DJ.
+2. Choose shoulder/off-season dates.
+3. Choose any weekday/random day if cheaper.
+4. Use a good remote/out-of-centre venue if total venue+transport economics work.
+5. Potentially reduce/omit organised guest shuttle if disproportionately expensive and guests still have practical access.
+6. Keep decor proportionate rather than elaborate.
+Do not deliberately cut the desired guest list. Protect food quality/quantity, proper execution, and equivalent-quality weather contingency.
+
+## Invitations, RSVP and seating
+- Invitations and RSVPs will be 100% digital; no physical invitation/postage requirement.
+- A designed digital invitation plus Google Forms or another simple digital RSVP tool is acceptable.
+- RSVP should eventually capture attendance, children, dietary requirements, travel/accommodation information and shuttle needs as useful.
+- Assigned seating is wanted. The couple will decide social groupings and exact seat positions after RSVPs; assistant can help translate this into venue-ready plans.
+- Couple wants a separate sweetheart table for only the bride and groom, positioned with a view of most/all guests.
+- Immediate family/closest friends should be seated nearby. For remaining tables, shape/style (round, long, etc.) is flexible and can follow venue economics/layout.
+
+## Beauty/personal services
+- Bridal hair/makeup is part of the wedding-day budget.
+- Couple does not currently expect to pay hair/makeup for relatives. If later desired for a few close family members, treat it as a small optional add-on rather than a core commitment.
+
+## Multi-day scope
+- Wider guests have one organised wedding day only; no required welcome dinner/brunch/excursions.
+- Eight-person immediate-family group stays roughly a week; couple may treat destination partly as vacation.
+- Do not assume every wider guest can literally arrive/depart same day; practical affordable nearby lodging may still matter even if the couple does not pay for it.
+
+## Assistant working preferences
+- GitHub repository `MitraChehre/Wedding` is the canonical durable workspace. Commit durable work directly to `main` by default.
+- Ask interview questions one at a time.
+- Be proactive about missing decisions, dependencies, risks, and next steps.
+- Do not assume the couple knows wedding-planning conventions.
+- Challenge infeasible assumptions and recommend concrete tradeoffs or justified budget increases.
+- Do not repeatedly ask questions already answered in canonical files.
+- Eventually maintain/provide a concise planner-ready requirements brief that can be shared with prospective/selected planners.
+
+## Open / revisit later
+- Religious requirements/restrictions (next interview question; user explicitly paused before answering it).
+- Final destination country/city/region and exact date.
+- Detailed guest list and RSVP-derived headcount.
+- Evidence-based €30k feasibility and category budget.
+- Room configuration/accommodation details for the eight.
+- Legal marriage arrangements.
+- Exact entertainment beyond DJ.
+- Photography style/scope and pre-wedding shoot details.
+- Exact food/bar package.
+- Dress/beauty details beyond current scope.
+- Destination/venue shortlist and planner selection.
+- Detailed speeches/toasts and programme later in planning.
+
+Update this file as durable facts become known. Do not convert provisional assumptions into confirmed facts without evidence.
