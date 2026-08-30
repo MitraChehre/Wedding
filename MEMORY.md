@@ -10,7 +10,8 @@ This file contains durable facts and preferences that should be remembered acros
 - Peak/high season is expendable. Shoulder/off-season is a preferred cost-saving lever, provided the wedding remains proper and weather risk is handled.
 - Working all-in budget: about €30,000, to be pressure-tested and revised if necessary.
 - Major personal clothing purchases (bride's wedding dress and groom's wedding outfit) are outside this budget. Wedding-day services such as bridal hair/makeup are inside. Rings may be included but should remain a visible/separable budget line.
-- Budget also covers roughly one week of accommodation for the eight-person immediate-family group including the couple.
+- Budget covers roughly one week of hotel accommodation for the eight-person immediate-family group including the couple: four separate rooms for four couples, with breakfast included.
+- Ordinary lunches, dinners, drinks and other day-to-day personal expenses during that family week are outside the wedding budget.
 
 ## Guests and family
 - Approximate invitations: ~200.
@@ -97,13 +98,27 @@ First/acceptable levers include:
 6. Keep decor proportionate rather than elaborate.
 Do not deliberately cut the desired guest list. Protect food quality/quantity, proper execution, and equivalent-quality weather contingency.
 
-## Invitations, RSVP and seating
+## Invitations, RSVP, guest accommodation and seating
 - Invitations and RSVPs will be 100% digital; no physical invitation/postage requirement.
 - A designed digital invitation plus Google Forms or another simple digital RSVP tool is acceptable.
 - RSVP should eventually capture attendance, children, dietary requirements, travel/accommodation information and shuttle needs as useful.
+- Wider guests are responsible for choosing, booking, paying for, and managing their own accommodation. Couple does not want to become the intermediary for individual room preferences/problems.
+- Low-effort hotel discounts for guests are desirable: negotiate a group/wedding rate or booking code with one or more suitable hotels, ideally without financial commitment or guaranteed room count. Guests then book directly themselves.
+- The same hotel as the family stay and/or wedding venue is a convenient option if it works, but not a requirement. Nearby discounted alternatives are fine.
 - Assigned seating is wanted. The couple will decide social groupings and exact seat positions after RSVPs; assistant can help translate this into venue-ready plans.
 - Couple wants a separate sweetheart table for only the bride and groom, positioned with a view of most/all guests.
 - Immediate family/closest friends should be seated nearby. For remaining tables, shape/style (round, long, etc.) is flexible and can follow venue economics/layout.
+
+## Accommodation for the eight
+- Hotel accommodation is a requirement; do not plan self-catering apartments/villas. Couple wants to minimise chores and logistics around the wedding and does not want the family cooking.
+- Plan four separate hotel rooms, one for each couple, for roughly one week.
+- Breakfast should be included in the wedding-budget accommodation assumption.
+- Lunches, dinners, drinks and ordinary personal expenses during the week are outside the wedding budget.
+- Hotel standard is value-dependent rather than luxury-dependent: clean, comfortable, convenient and serviced is the baseline. A beautiful/upscale property is welcome if affordable, but should not blow the wedding budget.
+
+## Guest favours
+- Guest favours are optional rather than a must-have.
+- If included, favour something simple, nice and distinctive/unique, with very low per-guest cost. Do not allocate a meaningful share of the budget to favours.
 
 ## Beauty/personal services
 - Bridal hair/makeup is part of the wedding-day budget.
@@ -128,7 +143,8 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 - Final destination country/city/region and exact date.
 - Detailed guest list and RSVP-derived headcount.
 - Evidence-based €30k feasibility and category budget.
-- Room configuration/accommodation details for the eight.
+- Exact hotel/property and room rates for the eight.
+- Guest hotel discount arrangements once destination/venue is known.
 - Exact entertainment beyond DJ.
 - First/family dance choices and detailed programme.
 - Entrance music/effects and whether any fireworks-style effect is worthwhile/permitted.
@@ -137,5 +153,6 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 - Dress/beauty details beyond current scope.
 - Destination/venue shortlist and planner selection.
 - Detailed speeches/toasts and programme later in planning.
+- Whether to include guest favours and, if so, select a low-cost distinctive option.
 
 Update this file as durable facts become known. Do not convert provisional assumptions into confirmed facts without evidence.
