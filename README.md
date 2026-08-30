@@ -9,6 +9,7 @@ GitHub is not only reference material. Before substantive work, the assistant re
 - High-level requirements interview: complete.
 - Current phase: destination selection and planning foundations.
 - Active parallel streams: destination comparison, guest list, budget feasibility, and planner-ready requirements brief.
+- Operational spreadsheet: the private Google Sheet `Plan` holds current to-dos, personal guest-list data, and working budget data; GitHub retains durable project knowledge and the full roadmap.
 - Target window: September–December 2027.
 - Working budget: about €30,000, subject to evidence-based testing.
 - Invitations: about 200; attendance scenario up to about 150 and likely lower.

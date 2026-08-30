@@ -97,6 +97,6 @@ Final checks, rehearsals/briefings, contact sheet, packing and document checks, 
 
 ## Next interactive question
 
-Start the guest-list stream with one practical choice: who will own the first named guest-list draft, and where should it live (spreadsheet, existing document, or a new repository file)?
+The couple will draft the named guest list in the private `Plan` Google Sheet. The next focused planning question is whether the €30,000 figure is a firm ceiling, a target with modest flexibility, or an initial hypothesis.
 
 See MEMORY.md for complete requirements, TASKS.md for the active queue, and DECISIONS.md for confirmed choices.

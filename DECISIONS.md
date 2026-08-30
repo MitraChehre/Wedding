@@ -42,7 +42,13 @@ Meaningful decisions are recorded here with status, rationale, and consequences.
 - Decision: Bridesmaids, best men, and other standing roles remain optional until the ceremony format is designed; someone must carry or present the rings.
 - Implications: Run a later traditions workshop before assigning most roles. Ring presenter remains an open selection.
 
-## Corrected / superseded content
+### D-007 — Use the private Plan Sheet as the operational tracker
+
+- Status: Confirmed
+- Decision: Use the existing private Google Sheet `Plan` for current to-dos, named guest-list data, and working budget data; keep the full roadmap and durable project knowledge in GitHub.
+- Rationale: The couple already has a suitable shared spreadsheet and wants it to remain the practical reference for tabular collaborative work without cluttering the active queue with future phases.
+- Implications: The Sheet's `TODOs` tab should show only active P0 work. Personal guest data stays in the private Sheet. Meaningful decisions, requirements, research, and summarized outcomes are still written back to GitHub.
+
 
 ### S-001 — Turkey as confirmed destination
 

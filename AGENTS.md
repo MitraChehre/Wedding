@@ -32,7 +32,12 @@ Act as a proactive wedding-planning copilot for a destination wedding whose coun
 
 Do not create competing sources of truth. Correct stale content in place, preserve still-relevant history, and distinguish confirmed facts from hypotheses.
 
-## Start-of-task protocol
+## External operational spreadsheet
+
+The private Google Sheet named `Plan` is the operational tracker for current to-dos, the guest list, and working budget data. Read it when work depends on those areas. Keep only current actionable work on its `TODOs` tab; the longer phased roadmap remains in PROJECT.md.
+
+GitHub remains canonical for durable requirements, decisions, research, plans, and summarized outcomes. Synchronize meaningful status changes back to GitHub, but do not copy the Sheet URL/file ID, account details, guest names, passport information, or other personal guest data into this public repository.
+
 
 For substantive work:
 
