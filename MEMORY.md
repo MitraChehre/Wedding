@@ -37,8 +37,11 @@ This file contains durable facts and preferences that should be remembered acros
 - Italian/European flight access matters; visa-free access for Italians is preferred.
 - Destination comparison should include entry rules, land access from Karaj, flight access from Europe, cost, Sep–Dec weather, venue quality, English-speaking planner/vendor ecosystem, and safety/reliability. Re-check changing rules closer to booking.
 
-## Venue and weather
+## Venue, visual identity and weather
 - Venue aesthetic/type is flexible: villa, resort, hotel, restaurant/event venue, etc., as long as it is good, private for the event, and budget-fit.
+- Venue should be selected before committing to a wedding theme, palette or detailed visual identity.
+- The couple does want the finished wedding to feel visually coherent. Once a venue is chosen, decor, flowers, website, digital invitation and related visual elements should be designed to complement the venue rather than fighting its existing architecture/style.
+- No colour palette or specific aesthetic theme has been selected yet.
 - Event privacy/exclusivity matters; full property buyout is not required if the actual wedding space is genuinely private.
 - Weather contingency is a major deal-breaker. If outdoors/garden is Plan A, the indoor/covered Plan B must be large enough and approximately as good, not a visibly inferior emergency fallback.
 - A remote/out-of-centre venue is acceptable and is an explicit cost-saving lever if the venue itself is good.
@@ -54,6 +57,11 @@ This file contains durable facts and preferences that should be remembered acros
 - The couple is already legally married. Legal marriage, destination marriage law, registration, certificates, and legal officiation are explicitly out of scope for this project.
 - Wedding ceremony is purely symbolic/celebratory and can be led by one of the couple's uncles; no professional celebrant is needed.
 - The symbolic ceremony should include an exchange of the couple's wedding rings.
+- Personal vows are likely, probably as a small/short element, but are not yet a firm requirement and exact format/content is undecided.
+- Exact ceremony structure is intentionally deferred. Later, explain possible Iranian, Italian and broader/international wedding rituals and traditions so the couple can consciously choose what they like and reject what they do not.
+- There are currently no traditions the couple has identified as an absolute 'no'; this reflects lack of familiarity with the full menu of wedding customs rather than a desire to include everything.
+- Ceremony roles for family/friends should follow the eventual ritual/ceremony design rather than being fixed in advance. Bridesmaids/best men standing beside the couple are possible if an Italian-style portion is chosen, but undecided.
+- One concrete ceremony-role requirement: someone should carry/present the wedding rings. Who does this can be chosen later.
 - No religious requirements or restrictions currently apply to the ceremony, venue, food, alcohol, or other wedding elements.
 - Couple is open to a first dance and possibly optional family dances (e.g. parent/family moments), but does not want to decide the format now. Present sensible options later during programme design; none is mandatory.
 - Entrance preference is low-formality and not strongly fixed. Bride and groom are happy to enter together, potentially with music and perhaps a celebratory effect. Fireworks/pyrotechnics are only an idea to assess later against venue rules, safety, cost and alternatives.
@@ -109,6 +117,7 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 
 ## Invitations, website, RSVP, gifts, guest accommodation and seating
 - Invitations and RSVPs will be 100% digital; no physical invitation/postage requirement.
+- Guest dress code is intentionally simple and culturally flexible: essentially 'dress nicely for a wedding.' No required colours, theme, uniform style or culturally specific clothing rules are planned.
 - A simple wedding website is wanted if it remains inexpensive and low-maintenance. Couple is happy to build it themselves rather than pay a wedding-website vendor if practical.
 - Website can become the central guest-information hub: digital invitation/details, RSVP, schedule, destination/travel guidance, hotel discounts, transport information, FAQs and updates.
 - A simple form such as Google Forms or another low-friction system can still power the RSVP if useful.
@@ -167,6 +176,9 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 - Guest hotel discount arrangements once destination/venue is known.
 - Wedding website implementation/content and RSVP tooling.
 - Exact gift-section wording and bank/cash contribution logistics.
+- Wedding visual theme/palette after venue selection.
+- Ceremony design: compare/select Iranian, Italian and international rituals; decide vows, attendants and family/friend roles.
+- Select the person who will carry/present the rings.
 - Exact entertainment beyond DJ.
 - First/family dance choices and detailed programme.
 - Entrance music/effects and whether any fireworks-style effect is worthwhile/permitted.
