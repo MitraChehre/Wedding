@@ -35,4 +35,4 @@ This file intentionally shows only the current P0 work. The complete later-phase
 - [x] Complete the high-level requirements interview.
 - [x] Establish GitHub as the canonical read-and-write planning workspace.
 - [x] Select the existing private Google Sheet `Plan` for operational tasks, guest-list data, and working budget data.
-- [x] Verify read access to the Sheet.
+- [x] Verify read/write access to the Sheet and synchronize its `TODOs` tab with the current P0 list.

@@ -159,7 +159,7 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 
 ## Planning spreadsheet
 - The couple has chosen an existing private Google Sheet named `Plan` as the recurring operational reference for current to-dos, guest-list data, and working budget data.
-- Read access was verified on 2026-08-30. The workbook contains `TODOs`, `Guests List`, `Guests List - Pivot`, `Budget Plan`, and `Budget Plan - Pivot` tabs.
+- Read/write access was verified on 2026-08-30. The workbook contains `TODOs`, `Guests List`, `Guests List - Pivot`, `Budget Plan`, and `Budget Plan - Pivot` tabs. On that date, the temporary `TODOs` entries were replaced with the current P0 list using Item, Owner, and Status columns.
 - The `TODOs` tab should contain only current P0 work, not the later roadmap. `PROJECT.md` retains the full phased roadmap.
 - The couple owns drafting the named guest list. The assistant should use it later for attendance scenarios, budget, venue capacity, transport, and RSVP planning.
 - Keep durable decisions, requirements, research, and summarized outcomes in GitHub even when operational data is maintained in the sheet. Do not store the private Sheet URL, file ID, account details, guest names, passport information, or other personal guest data in this public repository.
