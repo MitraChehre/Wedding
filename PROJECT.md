@@ -1,77 +1,102 @@
 # Wedding Project Brief
 
 ## Objective
-Plan and execute a destination wedding for a couple living in Estonia, using this repository as the central planning workspace, ChatGPT as a proactive planning copilot/project manager, and ultimately a full-service local human wedding planner for destination execution.
+
+Plan and execute a proper, budget-aware destination wedding for an Iranian/Italian couple living in Estonia. GitHub is the durable planning system, ChatGPT is the planning copilot/project manager, and a full-service local planner will ultimately handle destination execution.
 
 ## Current phase
-Discovery / requirements gathering. Country has NOT been selected. Armenia is currently a leading hypothesis and Turkey has also been considered, but destination selection must follow the requirements rather than precede them.
 
-## High-level success definition
-A proper, enjoyable, well-executed wedding for an internationally travelling Iranian/Italian guest group, with strong food, professional music, good photography, a genuinely good bad-weather solution, and no late-stage budget surprise caused by unrealistic early pricing.
+The initial high-level requirements interview is complete. The project is now in Phase 1: destination selection and planning foundations. No country is selected. Armenia is the leading hypothesis and Turkey is a candidate, but both must be tested against the requirements.
 
-## Core working parameters
-- Target: September–December 2027, highly flexible within the window.
-- Day of week: completely flexible; actively exploit weekday pricing.
-- Invitations: ~200; attendance planning ceiling around ~150 but likely lower after RSVP attrition.
-- Working all-in budget: ~€30,000, excluding major wedding clothing purchases but including wedding-day services, likely rings as a visible line, and roughly one week accommodation for the eight-person immediate-family group.
-- Destination must work especially well for essential Iranian family, including practical/easy entry and resilient overland access from Karaj if aviation is disrupted.
-- Bride's parents should be able to reach the destination from Karaj in roughly one day overland.
-- English is the operational language for planner/venue/key vendors.
+## Success definition
 
-## Protected priorities / deal-breakers
-- Bad-weather Plan B must be approximately as good as Plan A and have adequate capacity.
-- Food must be good, substantial and sufficient.
-- The final wedding should feel proper; budget compliance must not be achieved through obvious under-delivery.
-- Planner must be realistic about all-in cost early. If €30k is insufficient, the couple wants to know before committing, together with a realistic number or clear tradeoffs.
-- Professional DJ is required.
-- Photography is a priority.
-- Event space should be genuinely private/exclusive during the wedding.
+A well-executed, personal wedding for an internationally travelling guest group with substantial good food, professional DJ, strong photography, genuine event privacy, and a weather Plan B approximately as good as Plan A—without late budget surprises caused by unrealistic early pricing.
 
-## Flexible / cost-saving areas
-- Live music can be removed entirely; DJ-only is fine.
-- Off-season/shoulder-season is welcome.
-- Any weekday is welcome if cheaper.
-- Remote/out-of-centre venue is acceptable if good and total cost including transport makes sense.
-- Guest shuttle is desirable for remote venues but can be reconsidered if disproportionately expensive and access remains practical.
-- Decor should be attractive but restrained/value-conscious.
-- Venue format/aesthetic is flexible.
-- Planner pricing model is irrelevant compared with reputation, execution quality and ability to stay within the agreed total.
+## Core parameters
 
-## Celebration concept
-- Personal/non-traditional mix of selected Iranian and Italian elements.
-- Small/simple Sofreh Aghd; planner's Persian expertise is a bonus, not a requirement.
-- Symbolic ceremony led by an uncle; legal marriage handled separately as needed.
-- Proper dinner, drinks, DJ/dancing, optional entertainment.
-- Wine, beer, cocktails plus non-alcoholic options.
-- Formal programme roughly 17:00–23:00; optional continued dancing after that is nice.
-- Wedding cake/cake-cutting wanted, with a dummy/display cake + cutting tier + pre-portioned servings entirely acceptable.
-- Speeches/toasts expected but detailed planning deferred.
+- Window: September–December 2027; month, date, and weekday are flexible.
+- Invitations: about 200; up to about 150 attendees is a planning ceiling, likely lower after travel-related attrition.
+- Working all-in budget: about €30,000, to be pressure-tested.
+- Budget includes two wedding rings, wedding-day services, and roughly one hotel week with breakfast in four rooms for the eight-person immediate-family group.
+- Major bride/groom clothing purchases and ordinary family-week meals/personal spending are outside the budget.
+- Essential Iranian family must have practical entry and resilient overland access from Karaj in roughly one full day if flights fail.
+- European access, affordability, weather, English-speaking planner ecosystem, venue quality, and reliability also matter.
+- The couple is already legally married; the ceremony is symbolic.
 
-## Guest experience and logistics
-- Wider guest group has one organised wedding day, not a multi-day hosted programme.
-- Children are invited; nearby children's play space is desirable.
-- 100% digital invitations and RSVP.
-- Assigned seating with deliberate table/seat placement after RSVP.
-- Separate sweetheart table for bride and groom with a view over the room; closest family/friends nearby.
-- For remote venues, initially plan for a city pickup shuttle; evaluate transport as part of total venue economics.
+## Protected priorities
 
-## Vendor/service posture
-- Full-service local planner is required for local execution because the couple works and plans from abroad.
-- Strong reputation/reliability/results matter more than fee structure or Iranian background.
-- Professional wedding-day photographer required; separate destination couple/pre-wedding shoot desired if feasible.
-- Video is low priority.
-- Bridal hair/makeup included; family hair/makeup is not a core expense.
+- Good, sufficient dinner and proper vegan/vegetarian meals.
+- Professional DJ with Persian, international, and suitable Italian music.
+- Professional wedding-day photography.
+- Private wedding space.
+- Equivalent-quality weather backup with sufficient capacity.
+- Honest all-in budgets, exclusions, and contingency.
+- A wedding that feels proper rather than visibly under-delivered.
 
-## Planning approach
-1. Finish enough discovery to define hard constraints and priorities.
-2. Build an evidence-based destination shortlist, with Armenia tested seriously rather than assumed.
-3. Pressure-test €30k using real destination/venue/planner/catering/bar/transport/accommodation pricing.
-4. Select destination and full-service planner.
-5. Build guest list/RSVP process and venue/date shortlist in parallel.
-6. Contract only after understanding realistic all-in cost, exclusions, contingency and headcount flexibility.
-7. Maintain a planner-ready requirements brief and decision/task tracking in this repository.
+## Flexible areas and savings levers
 
-## Immediate interview state
-The interview is paused immediately before the question: **Are there any religious requirements or restrictions that the ceremony, venue, food, alcohol, or other parts of the wedding need to respect?** Resume with that single question when the couple is ready.
+- Weekday and shoulder/off-season dates.
+- DJ-only; live music is optional.
+- Remote/out-of-centre venue when venue plus transport remains good value.
+- Proportionate decor and naturally attractive venues.
+- Guest shuttle may be reduced only if access remains practical.
+- Venue type and planner fee model are flexible.
+- Video and guest favours are low priority.
 
-See `MEMORY.md` for detailed durable preferences and `TASKS.md` / `DECISIONS.md` for project tracking.
+## Celebration and guest experience
+
+- One organised wedding day for wider guests, roughly 17:00–23:00, with optional informal continued dancing.
+- Personal, non-traditional ceremony mixing selected Iranian, Italian, and international elements.
+- Small/simple Sofreh Aghd, ring exchange, likely short vows, uncle as symbolic officiant, and a required ring presenter.
+- Children invited; nearby play space desirable.
+- Digital invitation, website, and RSVP; assigned seating; couple-only sweetheart table.
+- Wider guests arrange and pay for their accommodation; low-commitment hotel rates/codes are desirable.
+- Simple “dress nicely for a wedding” dress code without required colours or theme.
+
+## Parallel roadmap
+
+### Phase 1 — Foundations and destination gate (start now)
+
+Run four streams in parallel:
+
+1. Destination: compare a short list against Iranian entry/overland resilience, European access, cost, weather, venues, planners, and reliability.
+2. Guests: build a named guest-list draft with household, country, passport/travel risk, children, priority tier, and attendance confidence.
+3. Budget: create low/base/high attendance scenarios and a category model that protects food, weather backup, DJ, photography, rings, and family hotel.
+4. Planning infrastructure: define decision gates, quote template, risk register, and planner-ready requirements brief.
+
+Gate to Phase 2: choose destination country/region only after evidence and a credible budget range.
+
+### Phase 2 — Planner, venue, date, and feasibility
+
+Shortlist/interview full-service planners; obtain comparable venue/package evidence; test dates and Plan B; validate total costs, transport, accommodation, taxes, and headcount terms.
+
+Gate to Phase 3: select destination, planner, venue, and date with acceptable contract terms and contingency.
+
+### Phase 3 — Core suppliers and guest save-the-date
+
+Contract food/bar if separate, DJ, photographer, essential rentals/transport, and family hotel. Publish save-the-date/travel guidance once destination and date are secure.
+
+### Phase 4 — Design and experience
+
+After venue selection, develop palette/visual identity. Run the Iranian/Italian/international traditions workshop; select ceremony structure, vows, roles, and ring presenter. Develop menu, bar, music, programme, florals, cake, website, invitations, RSVP, and ring purchasing.
+
+### Phase 5 — Guest confirmation and operational plan
+
+Collect RSVPs and travel data; confirm dietary needs, shuttle demand, room guidance, seating, speeches, vendor timelines, payment schedule, and rain plan. Lock final headcount only as late as contract permits.
+
+### Phase 6 — Final readiness and wedding week
+
+Final checks, rehearsals/briefings, contact sheet, packing and document checks, payment/tip plan, weather trigger, vendor confirmations, family transfers, day-of timeline, and post-event closeout.
+
+## Immediate priorities and dependencies
+
+1. Destination evaluation and guest-list draft begin now; neither depends on the other being complete.
+2. Budget scenarios begin with current attendance assumptions and improve as guest data and quotes arrive.
+3. Planner/venue outreach waits for an initial destination shortlist but need not wait for a final country decision.
+4. Visual theme, detailed ceremony roles, seating, and final RSVP tooling deliberately wait for their prerequisites.
+
+## Next interactive question
+
+Start the guest-list stream with one practical choice: who will own the first named guest-list draft, and where should it live (spreadsheet, existing document, or a new repository file)?
+
+See MEMORY.md for complete requirements, TASKS.md for the active queue, and DECISIONS.md for confirmed choices.

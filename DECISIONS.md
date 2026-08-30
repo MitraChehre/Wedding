@@ -1,41 +1,63 @@
 # Wedding Decision Log
 
-Use this file for meaningful decisions that constrain later planning. Record the decision, date, rationale, and consequences where useful.
+Meaningful decisions are recorded here with status, rationale, and consequences. Hypotheses and open questions are not decisions.
 
 ## Confirmed decisions
 
-### D-001 — Wedding destination country: Turkey
+### D-001 — GitHub is the canonical read-and-write project workspace
 
-- **Status:** Confirmed
-- **Decision:** Plan the wedding in Turkey.
-- **Rationale:** Stated directly by the couple.
-- **Implications:** Venue, planner, vendors, guest travel, local logistics, contracts, payment methods, and potentially legal/ceremonial requirements must be researched in the Turkish context.
+- Status: Confirmed
+- Decision: MitraChehre/Wedding is both the source to read before substantive work and the place where all substantive decisions, requirements, plans, research, corrections, and interaction outcomes must be written back.
+- Rationale: The couple wants durable continuity across conversations, not chat-only memory.
+- Implications: Relevant files must be read first; durable outcomes must be committed to main. If writing is unavailable, the assistant must disclose that and retain an explicit write-back list.
 
-### D-002 — Use this GitHub repository as the canonical project workspace
+### D-002 — Planning assistant operates proactively and across parallel workstreams
 
-- **Status:** Confirmed
-- **Decision:** `MitraChehre/Wedding` is the durable source of truth for project context, research, decisions, and planning artifacts.
-- **Rationale:** The couple wants a Codex-style persistent planning repository.
-- **Implications:** Durable project work should be written back to canonical files and committed to `main` by default.
+- Status: Confirmed
+- Decision: The assistant should identify missing work, dependencies, risks, and next actions and guide multiple workstreams in parallel.
+- Rationale: The couple does not expect to know the full wedding-planning process or to direct it one item at a time.
+- Implications: TASKS.md must remain prioritized and dependency-aware; questions should advance real decisions.
 
-### D-003 — Planning assistant should operate proactively
+### D-003 — The legal marriage is out of scope
 
-- **Status:** Confirmed
-- **Decision:** The assistant should actively identify unknowns, required workstreams, risks, dependencies, and next steps instead of only reacting to explicit tasks.
-- **Rationale:** The couple does not expect to already know everything required to plan the wedding.
-- **Implications:** `TASKS.md` should be maintained continuously and discovery should be progressive.
+- Status: Confirmed
+- Decision: The couple is already legally married; this project plans a symbolic/celebratory wedding ceremony.
+- Implications: Do not spend planning effort on destination marriage registration or legal officiation unless the couple changes scope.
 
-## Pending decisions
+### D-004 — Initial requirements interview is complete
 
-These are not yet decisions; they are high-impact topics expected to become decision entries later:
+- Status: Confirmed
+- Decision: Move from broad discovery into active planning, refining details interactively as workstreams require.
+- Implications: Destination comparison, guest-list construction, budget feasibility, and planning infrastructure can start now in parallel.
 
-- city/region in Turkey;
-- target date/season;
-- approximate guest count;
-- total budget;
-- planner/coordinator model;
-- venue type;
-- ceremony format;
-- cultural/religious traditions;
-- guest accommodation and travel support;
-- wedding format and surrounding events.
+### D-005 — Do not select visual identity before the venue
+
+- Status: Confirmed
+- Decision: Choose the venue first, then create a coherent palette and visual identity that complements it.
+- Implications: Theme/palette work waits for venue selection; only general aesthetic preferences should be collected earlier.
+
+### D-006 — Ceremony roles follow the selected rituals
+
+- Status: Confirmed
+- Decision: Bridesmaids, best men, and other standing roles remain optional until the ceremony format is designed; someone must carry or present the rings.
+- Implications: Run a later traditions workshop before assigning most roles. Ring presenter remains an open selection.
+
+## Corrected / superseded content
+
+### S-001 — Turkey as confirmed destination
+
+- Status: Superseded
+- Previous statement: The wedding destination country was Turkey.
+- Correction: No country is selected. Armenia is the leading hypothesis; Turkey has been considered.
+- Reason: Later interview answers clarified that destination must be selected against access, cost, weather, venue, and vendor requirements.
+- Implications: Turkey-specific research remains reference material only and must not constrain the destination shortlist.
+
+## Pending high-impact decisions
+
+- destination country and region;
+- target month/date;
+- working guest tiers and credible attendance scenarios;
+- realistic total budget and contingency after market testing;
+- planner and venue;
+- ceremony ritual mix and ring presenter;
+- wedding-ring allocation and design.

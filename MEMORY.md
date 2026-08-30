@@ -1,6 +1,6 @@
 # Wedding Project Memory
 
-This file contains durable facts and preferences that should be remembered across Wedding project interactions.
+This file contains durable facts and preferences that should be remembered across Wedding project interactions. The initial high-level requirements interview is complete; future conversations should move into planning while refining details as needed.
 
 ## Core scope and timing
 - Destination wedding; country is not selected and must not be assumed.
@@ -158,7 +158,7 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 - Do not assume every wider guest can literally arrive/depart same day; practical affordable nearby lodging may still matter even if the couple does not pay for it.
 
 ## Assistant working preferences
-- GitHub repository `MitraChehre/Wedding` is the canonical durable workspace. Commit durable work directly to `main` by default.
+- GitHub repository `MitraChehre/Wedding` is the canonical durable read-and-write workspace. Read it before substantive work and write back all substantive decisions, requirements, plans, research findings, corrections, and interaction outcomes; chat alone is not durable storage. Commit completed durable work directly to `main` by default.
 - Ask interview questions one at a time.
 - After every 5 substantive interview answers, pause before the next question and persist the new durable answers to GitHub.
 - Be proactive about missing decisions, dependencies, risks, and next steps.
