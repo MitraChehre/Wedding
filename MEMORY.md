@@ -49,15 +49,18 @@ This file contains durable facts and preferences that should be remembered acros
 - Wedding should be personal/non-traditional, selectively mixing Iranian and Italian elements the couple likes rather than following prescribed traditions.
 - A small/simple Sofreh Aghd is specifically wanted; not large, elaborate, or a splurge.
 - Persian/Iranian cultural expertise in the planner is preferable but not important enough to drive selection. A strong local planner can research/execute the simple Sofreh Aghd from references.
-- Symbolic/unofficial ceremony can be led by one of the couple's uncles; no professional celebrant is needed for that role.
-- Legal marriage arrangements remain separate/open.
-- Religious requirements/restrictions have not yet been answered and should be the next interview question when the interview resumes.
+- The couple is already legally married. Legal marriage, destination marriage law, registration, certificates, and legal officiation are explicitly out of scope for this project.
+- Wedding ceremony is purely symbolic/celebratory and can be led by one of the couple's uncles; no professional celebrant is needed.
+- No religious requirements or restrictions currently apply to the ceremony, venue, food, alcohol, or other wedding elements.
+- Couple is open to a first dance and possibly optional family dances (e.g. parent/family moments), but does not want to decide the format now. Present sensible options later during programme design; none is mandatory.
+- Entrance preference is low-formality and not strongly fixed. Bride and groom are happy to enter together, potentially with music and perhaps a celebratory effect. Fireworks/pyrotechnics are only an idea to assess later against venue rules, safety, cost and alternatives.
 
 ## Food, drink and cake
 - Food quality and quantity are protected priorities. There must be a substantial proper dinner and enough food for guests.
 - Buffet is preferred if sensible, but local service norms/multi-course formats are fine if quality/value is better.
 - Local cuisine is welcome; it need not be Iranian or Italian specifically.
 - Alcoholic and non-alcoholic options are required; wine, beer, and cocktails are desired.
+- At least one known guest is vegan and one known guest is vegetarian. Catering must provide proper meal options for them, not merely side dishes. Reconfirm all dietary requirements through RSVP later.
 - Wedding cake/cake-cutting is wanted, but not an expensive giant edible cake. A display/dummy cake with an edible cutting tier and separately prepared portions is entirely acceptable and likely preferred if economical.
 
 ## Music, entertainment and programme
@@ -67,6 +70,7 @@ This file contains durable facts and preferences that should be remembered acros
 - Other show/entertainment is optional and can be proposed later.
 - Formal wedding roughly envisioned around 17:00–23:00, with all essential programme/food completed by ~23:00. An optional way to continue dancing afterward is nice but not a major paid programme requirement.
 - Speeches/toasts are expected but intentionally undefined for now. Likely some brief welcome/logistics announcements and a few speeches; detailed planning should happen later.
+- No special end-of-night moment is wanted. After the last structured item (e.g. food/cake/etc.), music should simply continue and guests can leave gradually as the night winds down naturally. The exact final structured item can be decided later; no formal send-off/finale is required.
 
 ## Photography/video and decor
 - Professional wedding-day photography is a priority.
@@ -113,6 +117,7 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 ## Assistant working preferences
 - GitHub repository `MitraChehre/Wedding` is the canonical durable workspace. Commit durable work directly to `main` by default.
 - Ask interview questions one at a time.
+- After every 5 substantive interview answers, pause before the next question and persist the new durable answers to GitHub.
 - Be proactive about missing decisions, dependencies, risks, and next steps.
 - Do not assume the couple knows wedding-planning conventions.
 - Challenge infeasible assumptions and recommend concrete tradeoffs or justified budget increases.
@@ -120,13 +125,13 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 - Eventually maintain/provide a concise planner-ready requirements brief that can be shared with prospective/selected planners.
 
 ## Open / revisit later
-- Religious requirements/restrictions (next interview question; user explicitly paused before answering it).
 - Final destination country/city/region and exact date.
 - Detailed guest list and RSVP-derived headcount.
 - Evidence-based €30k feasibility and category budget.
 - Room configuration/accommodation details for the eight.
-- Legal marriage arrangements.
 - Exact entertainment beyond DJ.
+- First/family dance choices and detailed programme.
+- Entrance music/effects and whether any fireworks-style effect is worthwhile/permitted.
 - Photography style/scope and pre-wedding shoot details.
 - Exact food/bar package.
 - Dress/beauty details beyond current scope.
