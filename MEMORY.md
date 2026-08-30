@@ -157,6 +157,11 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 - Eight-person immediate-family group stays roughly a week; couple may treat destination partly as vacation.
 - Do not assume every wider guest can literally arrive/depart same day; practical affordable nearby lodging may still matter even if the couple does not pay for it.
 
+## Planning spreadsheet
+- The couple has chosen an existing private Google Sheet named `Plan` as the working spreadsheet for tasks, guest-list data, and budget planning.
+- Read access was verified on 2026-08-30. The workbook currently contains `TODOs`, `Guests List`, `Guests List - Pivot`, `Budget Plan`, and `Budget Plan - Pivot` tabs.
+- Keep durable decisions, requirements, research, and interaction outcomes in this GitHub repository even when operational data is maintained in the sheet. Do not store the private Sheet URL, file ID, account details, or guest personal data in this public repository.
+
 ## Assistant working preferences
 - GitHub repository `MitraChehre/Wedding` is the canonical durable read-and-write workspace. Read it before substantive work and write back all substantive decisions, requirements, plans, research findings, corrections, and interaction outcomes; chat alone is not durable storage. Commit completed durable work directly to `main` by default.
 - Ask interview questions one at a time.

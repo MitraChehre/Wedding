@@ -15,11 +15,12 @@ The high-level interview is complete. Keep this queue actionable, dependency-awa
 
 ### Guest list and attendance model
 
-- [ ] Choose the guest-list owner and working format.
+- [x] Use the existing private Google Sheet `Plan` as the working format; read access verified 2026-08-30.
 - [ ] Create named households with country, passport/travel considerations, children, priority tier, and attendance confidence.
 - [ ] Produce low/base/high attendance scenarios without deliberately cutting desired invitees.
 - Dependency: couple supplies or drafts names.
 - Feeds: budget, venue capacity, transport, hotel guidance, RSVP design.
+- Privacy: do not copy private guest data or the Sheet URL/file ID into this public repository.
 
 ### Budget feasibility
 
