@@ -9,7 +9,8 @@ This file contains durable facts and preferences that should be remembered acros
 - Weekday weddings are explicitly welcome if they save money; there is no meaningful universal weekend for the Iranian/European guest mix.
 - Peak/high season is expendable. Shoulder/off-season is a preferred cost-saving lever, provided the wedding remains proper and weather risk is handled.
 - Working all-in budget: about €30,000, to be pressure-tested and revised if necessary.
-- Major personal clothing purchases (bride's wedding dress and groom's wedding outfit) are outside this budget. Wedding-day services such as bridal hair/makeup are inside. Rings may be included but should remain a visible/separable budget line.
+- Major personal clothing purchases (bride's wedding dress and groom's wedding outfit) are outside this budget. Wedding-day services such as bridal hair/makeup are inside.
+- Two wedding rings are required and are part of the €30k budget; keep them as a visible/separate budget line.
 - Budget covers roughly one week of hotel accommodation for the eight-person immediate-family group including the couple: four separate rooms for four couples, with breakfast included.
 - Ordinary lunches, dinners, drinks and other day-to-day personal expenses during that family week are outside the wedding budget.
 
@@ -52,9 +53,17 @@ This file contains durable facts and preferences that should be remembered acros
 - Persian/Iranian cultural expertise in the planner is preferable but not important enough to drive selection. A strong local planner can research/execute the simple Sofreh Aghd from references.
 - The couple is already legally married. Legal marriage, destination marriage law, registration, certificates, and legal officiation are explicitly out of scope for this project.
 - Wedding ceremony is purely symbolic/celebratory and can be led by one of the couple's uncles; no professional celebrant is needed.
+- The symbolic ceremony should include an exchange of the couple's wedding rings.
 - No religious requirements or restrictions currently apply to the ceremony, venue, food, alcohol, or other wedding elements.
 - Couple is open to a first dance and possibly optional family dances (e.g. parent/family moments), but does not want to decide the format now. Present sensible options later during programme design; none is mandatory.
 - Entrance preference is low-formality and not strongly fixed. Bride and groom are happy to enter together, potentially with music and perhaps a celebratory effect. Fireworks/pyrotechnics are only an idea to assess later against venue rules, safety, cost and alternatives.
+
+## Wedding rings
+- Only the engagement ring has been purchased so far; the couple still needs two wedding rings.
+- Wedding rings are a required part of the €30k wedding budget and will be exchanged during the symbolic ceremony.
+- Exact ring budget is intentionally deferred until the overall wedding budget is better understood; the couple currently has differing preferences about how much to spend.
+- Provisional aesthetic: rings may be vaguely/cohesively matching rather than identical. Groom likely prefers a simple gold band; bride may prefer a related design with small stones.
+- Revisit ring design/materials and spending as a dedicated later decision once opportunity cost against other wedding categories is visible.
 
 ## Food, drink and cake
 - Food quality and quantity are protected priorities. There must be a substantial proper dinner and enough food for guests.
@@ -98,16 +107,26 @@ First/acceptable levers include:
 6. Keep decor proportionate rather than elaborate.
 Do not deliberately cut the desired guest list. Protect food quality/quantity, proper execution, and equivalent-quality weather contingency.
 
-## Invitations, RSVP, guest accommodation and seating
+## Invitations, website, RSVP, gifts, guest accommodation and seating
 - Invitations and RSVPs will be 100% digital; no physical invitation/postage requirement.
-- A designed digital invitation plus Google Forms or another simple digital RSVP tool is acceptable.
+- A simple wedding website is wanted if it remains inexpensive and low-maintenance. Couple is happy to build it themselves rather than pay a wedding-website vendor if practical.
+- Website can become the central guest-information hub: digital invitation/details, RSVP, schedule, destination/travel guidance, hotel discounts, transport information, FAQs and updates.
+- A simple form such as Google Forms or another low-friction system can still power the RSVP if useful.
 - RSVP should eventually capture attendance, children, dietary requirements, travel/accommodation information and shuttle needs as useful.
+- No physical gift registry. Physical gifts are undesirable because the couple will be travelling internationally and would need to transport items home.
+- Couple does expect that some guests may want to give a wedding gift, but does not want to explicitly request money in the invitation itself.
+- Preferred gift, if guests choose to give one, is money rather than objects. Website may contain a tactful gifts section saying physical gifts are not needed and that cash is welcome, potentially also providing an IBAN/bank-transfer option.
+- Because Iranian guests may not be able to use the bank-transfer option, cash must remain an easy/acceptable alternative. Exact wording and payment options should be designed later with tact and accessibility in mind.
 - Wider guests are responsible for choosing, booking, paying for, and managing their own accommodation. Couple does not want to become the intermediary for individual room preferences/problems.
 - Low-effort hotel discounts for guests are desirable: negotiate a group/wedding rate or booking code with one or more suitable hotels, ideally without financial commitment or guaranteed room count. Guests then book directly themselves.
 - The same hotel as the family stay and/or wedding venue is a convenient option if it works, but not a requirement. Nearby discounted alternatives are fine.
 - Assigned seating is wanted. The couple will decide social groupings and exact seat positions after RSVPs; assistant can help translate this into venue-ready plans.
 - Couple wants a separate sweetheart table for only the bride and groom, positioned with a view of most/all guests.
 - Immediate family/closest friends should be seated nearby. For remaining tables, shape/style (round, long, etc.) is flexible and can follow venue economics/layout.
+
+## Other physical items
+- No additional must-have physical wedding items are known at this stage beyond already identified requirements.
+- Do not add traditional/common wedding items merely because they are conventional; flag useful possibilities later and let the couple decide.
 
 ## Accommodation for the eight
 - Hotel accommodation is a requirement; do not plan self-catering apartments/villas. Couple wants to minimise chores and logistics around the wedding and does not want the family cooking.
@@ -143,8 +162,11 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 - Final destination country/city/region and exact date.
 - Detailed guest list and RSVP-derived headcount.
 - Evidence-based €30k feasibility and category budget.
+- Ring design/materials and exact ring budget.
 - Exact hotel/property and room rates for the eight.
 - Guest hotel discount arrangements once destination/venue is known.
+- Wedding website implementation/content and RSVP tooling.
+- Exact gift-section wording and bank/cash contribution logistics.
 - Exact entertainment beyond DJ.
 - First/family dance choices and detailed programme.
 - Entrance music/effects and whether any fireworks-style effect is worthwhile/permitted.
