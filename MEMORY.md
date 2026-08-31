@@ -11,7 +11,7 @@ This file contains durable facts and preferences that should be remembered acros
 - Working all-in budget: about €30,000, to be pressure-tested and revised if necessary.
 - Major personal clothing purchases (bride's wedding dress and groom's wedding outfit) are outside this budget. Wedding-day services such as bridal hair/makeup are inside.
 - Two wedding rings are required and are part of the €30k budget; keep them as a visible/separate budget line.
-- Budget covers roughly one week of hotel accommodation for the eight-person immediate-family group including the couple: four separate rooms for four couples, with breakfast included.
+- Budget covers roughly one week of hotel accommodation for the ten-person core group: eight closest family members plus the bride and groom. Plan five separate rooms for five couples, with breakfast included.
 - Ordinary lunches, dinners, drinks and other day-to-day personal expenses during that family week are outside the wedding budget.
 
 ## Guests and family
@@ -21,7 +21,7 @@ This file contains durable facts and preferences that should be remembered acros
 - Avoid contracts that lock in an unnecessarily high guaranteed headcount too early; prefer a final guarantee closer to the wedding date where possible.
 - Most guests come from Iran and Italy; some from elsewhere in Europe. No guests are expected to be local to the destination.
 - Children are invited. A separate nearby children's play area/room is desirable; childcare is not currently a requirement.
-- The close family group of eight are all adults: bride and groom; groom's parents; groom's brother and wife; bride's sister and husband; bride's parents.
+- The guaranteed core group is ten adults total: the bride and groom plus eight closest family members — groom's parents; groom's brother and wife; bride's sister and husband; bride's parents.
 - Couple lives in Estonia with temporary residence permits. Groom is Italian; bride is Iranian.
 - Groom's parents live in Italy. Groom's brother and wife live in Dublin and are Italian passport holders.
 - Bride's sister and husband live in Germany and hold Iranian passports.
@@ -45,7 +45,7 @@ This file contains durable facts and preferences that should be remembered acros
 - Event privacy/exclusivity matters; full property buyout is not required if the actual wedding space is genuinely private.
 - Weather contingency is a major deal-breaker. If outdoors/garden is Plan A, the indoor/covered Plan B must be large enough and approximately as good, not a visibly inferior emergency fallback.
 - A remote/out-of-centre venue is acceptable and is an explicit cost-saving lever if the venue itself is good.
-- Accommodation for the eight does not need to be at the venue; nearby separate accommodation is acceptable if transfers remain practical.
+- Accommodation for the ten-person core group does not need to be at the venue; nearby separate accommodation is acceptable if transfers remain practical.
 - For a hard-to-reach/remote venue, shared guest shuttle transport from a convenient city point is desirable. For an accessible venue, guests can arrange their own transport.
 - Guest transport is a secondary cost-cutting lever if it becomes disproportionately expensive, provided access remains practical.
 - Compare remote venues on total cost including required transport, not venue hire alone.
@@ -137,9 +137,9 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 - No additional must-have physical wedding items are known at this stage beyond already identified requirements.
 - Do not add traditional/common wedding items merely because they are conventional; flag useful possibilities later and let the couple decide.
 
-## Accommodation for the eight
+## Accommodation for the ten-person core group
 - Hotel accommodation is a requirement; do not plan self-catering apartments/villas. Couple wants to minimise chores and logistics around the wedding and does not want the family cooking.
-- Plan four separate hotel rooms, one for each couple, for roughly one week.
+- Plan five separate hotel rooms, one for each couple, for roughly one week.
 - Breakfast should be included in the wedding-budget accommodation assumption.
 - Lunches, dinners, drinks and ordinary personal expenses during the week are outside the wedding budget.
 - Hotel standard is value-dependent rather than luxury-dependent: clean, comfortable, convenient and serviced is the baseline. A beautiful/upscale property is welcome if affordable, but should not blow the wedding budget.
@@ -154,7 +154,7 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 
 ## Multi-day scope
 - Wider guests have one organised wedding day only; no required welcome dinner/brunch/excursions.
-- Eight-person immediate-family group stays roughly a week; couple may treat destination partly as vacation.
+- Ten-person core group stays roughly a week; couple may treat destination partly as vacation.
 - Do not assume every wider guest can literally arrive/depart same day; practical affordable nearby lodging may still matter even if the couple does not pay for it.
 
 ## Planning spreadsheet
@@ -179,7 +179,7 @@ Do not deliberately cut the desired guest list. Protect food quality/quantity, p
 - Detailed guest list and RSVP-derived headcount.
 - Evidence-based €30k feasibility and category budget.
 - Ring design/materials and exact ring budget.
-- Exact hotel/property and room rates for the eight.
+- Exact hotel/property and room rates for the ten-person core group.
 - Guest hotel discount arrangements once destination/venue is known.
 - Wedding website implementation/content and RSVP tooling.
 - Exact gift-section wording and bank/cash contribution logistics.
