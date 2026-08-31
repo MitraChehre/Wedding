@@ -49,6 +49,12 @@ Meaningful decisions are recorded here with status, rationale, and consequences.
 - Rationale: The couple already has a suitable shared spreadsheet and wants it to remain the practical reference for tabular collaborative work without cluttering the active queue with future phases.
 - Implications: The Sheet's `TODOs` tab should show only active P0 work. Personal guest data stays in the private Sheet. Meaningful decisions, requirements, research, and summarized outcomes are still written back to GitHub.
 
+### D-008 — Guaranteed core family group is 10 people total
+
+- Status: Confirmed
+- Decision: The guaranteed core group is 10 adults total: eight closest family members plus the bride and groom. The couple will pay for roughly one week of hotel accommodation for this core group.
+- Correction: Earlier planning notes incorrectly described the group as eight people including the couple. The listed family composition actually totals ten people.
+- Implications: Use five hotel rooms for five couples in accommodation and budget assumptions unless the couple later changes rooming arrangements. Future budget, hotel, transport, and core-attendance calculations must use 10 people, not 8.
 
 ### S-001 — Turkey as confirmed destination
 
