@@ -17,7 +17,7 @@ A well-executed, personal wedding for an internationally travelling guest group 
 - Window: September–December 2027; month, date, and weekday are flexible.
 - Invitations: about 200; up to about 150 attendees is a planning ceiling, likely lower after travel-related attrition.
 - Working all-in budget: about €30,000, to be pressure-tested.
-- Budget includes two wedding rings, wedding-day services, and roughly one hotel week with breakfast in four rooms for the eight-person immediate-family group.
+- Budget includes two wedding rings, wedding-day services, and roughly one hotel week with breakfast in five rooms for the ten-person core group: eight closest family members plus the bride and groom.
 - Major bride/groom clothing purchases and ordinary family-week meals/personal spending are outside the budget.
 - Essential Iranian family must have practical entry and resilient overland access from Karaj in roughly one full day if flights fail.
 - European access, affordability, weather, English-speaking planner ecosystem, venue quality, and reliability also matter.
